@@ -3,7 +3,7 @@
 1. This project aims at verifying the address from the dataset as valid and invalid with creating csv files for the earlier mentioned categories.
 2. The logic behind veryfying address is that all the addresses must have pincode in integers where no integer can be greater than 9999999999. 
 3. The pincode/postalcode cannot contain any string characters and zero values.
-4. Python's geopy module is being used in this project to verify locations as on maps. 
+4. Various API's are being used in this project to verify locations as on maps. 
 
 
 ## WORKING OF THE PROJECT 
