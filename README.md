@@ -19,10 +19,10 @@
 2. Jupyter Notebook or any pyhton notebook software
  
  ## Steps to run the project
- 
- 1. Give the address of the file.
- 2. Run the Notebook.
- 3. we will get a two output CSV files for every country named "Invalid Addresses.csv" and "Valid Addresses.csv".
+ 1. There are Two Notebooks one is specifically for Indian cites ans other for other countries.
+ 2. Give the address of the file.
+ 3. Run the Notebook.
+ 4. we will get a two output CSV files for every country named "Invalid Addresses.csv" and "Valid Addresses.csv".
  
  
 ## Important Note.
